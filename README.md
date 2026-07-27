@@ -1,145 +1,148 @@
 <div align="center">
 
-# 👾 Hi, I'm Saniya Parasara!
+# Hi 👋, I'm Saniya Parasara
 
-### ☁️ DevOps Engineer | Cloud Enthusiast | Open Source | Python Developer 🐍
+### ☁️ DevOps Engineer • Cloud Enthusiast • Python Developer • Open Source
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+Digital+World+%F0%9F%91%BE;DevOps+%7C+Cloud+%7C+Python;Automate.+Build.+Deploy.+Scale.;Learning+Something+New+Every+Day+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=%24+whoami+%E2%86%92+Saniya+Parasara;%24+focus+%E2%86%92+DevOps+%7C+Cloud+%7C+Python;%24+mission+%E2%86%92+Automate.+Build.+Deploy.+Scale.;%24+status+%E2%86%92+Always+Learning+%E2%98%81%EF%B8%8F" />
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=SaniyaParasara&label=PROFILE+VIEWS&style=for-the-badge" />
+<a href="https://github.com/SaniyaParasara">
+<img src="https://img.shields.io/badge/GitHub-SaniyaParasara-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saniya-parasara-b207a0296/">
+<img src="https://img.shields.io/badge/LinkedIn-Saniya_Parasara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SaniyaParasara&label=PROFILE+VIEWS&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👩‍💻 `PLAYER 01 // ABOUT ME`
+## `> ./about_saniya.sh`
 
 ```yaml
-name: Saniya Parasara
-location: Rajkot, Gujarat, India
+Saniya_Parasara:
+  location: "Rajkot, Gujarat, India 🇮🇳"
 
-education:
-  - BCA (Hons.) - Cloud Computing Specialization
-  - Currently Pursuing MCA
+  education:
+    degree: "BCA (Hons.)"
+    specialization: "Cloud Computing"
+    currently: "Pursuing MCA"
 
-current_focus:
-  - DevOps
-  - Cloud Computing
-  - Python Development
-  - Full-Stack Development
+  interests:
+    - "DevOps Engineering"
+    - "Cloud Computing"
+    - "Python Development"
+    - "CI/CD Automation"
+    - "Full-Stack Development"
+    - "Open Source"
 
-mission: "Build. Automate. Deploy. Improve."
+  philosophy: "Automate what repeats. Improve what matters."
 ```
 
-* 🎓 Currently pursuing **MCA**
-* ☁️ Exploring **Cloud Computing & Cloud Architecture**
-* ⚙️ Learning **DevOps technologies and automation**
-* 🐍 Building and problem-solving with **Python**
-* 🚀 Interested in **CI/CD & Cloud Infrastructure**
-* 🌱 Constantly learning and improving my engineering skills
+I enjoy exploring the intersection of **development, cloud infrastructure, and automation** — understanding not only how applications are built, but how they can be deployed, automated, monitored, and scaled reliably.
+
+Currently strengthening my skills in **Python, AWS, Docker, Jenkins, CI/CD, cloud architecture, and backend development** while pursuing my MCA.
 
 ---
 
-# ⚡ `TECH INVENTORY`
-
-### 🐍 Programming
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,linux,git,github" />
-</p>
-
-### 📊 Data & Analytics
-
-<p align="center">
-
-`Pandas` • `Python` • `Data Analytics`
-
-</p>
-
----
-
-# 🚀 `DEVOPS MISSION`
-
-```text
-[████████████████░░░░] Cloud Architecture
-[██████████████░░░░░░] CI/CD Automation
-[███████████████░░░░░] Python Development
-[████████████░░░░░░░░] Full-Stack Development
-[██████████████░░░░░░] Docker & Containers
-[█████████████░░░░░░░] AWS Cloud
-```
-
-> 💡 My goal is to combine development, automation, and cloud technologies to build secure, scalable, and reliable systems.
-
----
-
-# 🛠️ `DEVOPS FOCUS`
-
-```text
-☁️  Cloud Architecture
-│
-├── ⚙️ CI/CD Pipeline Automation
-├── 🐳 Docker & Containerization
-├── 🚀 AWS Cloud Infrastructure
-├── 🐍 Python Automation
-├── 🔄 GitHub Actions
-├── 🖥️ Linux & Server Management
-└── 📊 Monitoring & Observability
-```
-
----
-
-# 🏆 `CERTIFICATIONS & LEARNING`
-
-### ☁️ AWS
-
-* 🏅 **AWS Cloud Practitioner Essentials**
-* 🎮 **AWS Cloud Quest: Cloud Practitioner — Training Badge**
-* 📊 **Data Analytics Essentials**
-
-### 🌐 Google Cloud
-
-* ☁️ **Google Cloud Engineering Certificate**
-
-### 🌐 Cisco
-
-* 🎓 **Cisco Learning Credentials**
-
----
-
-# 📊 `GITHUB STATS`
+## `> ls ./tech-stack`
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaniyaParasara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### Languages & Development
 
-<img width="48%" src="https://streak-stats.demolab.com/?user=SaniyaParasara&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,html,css,tailwind,js" />
+
+<br><br>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,mysql,postgres,mongodb" />
+
+<br><br>
+
+### Cloud • DevOps • Engineering
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,linux,git,github" />
+
+<br><br>
+
+### Data & Analytics
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</div>
+
+---
+
+## `> cat current-focus.txt`
+
+```text
+☁️  CLOUD
+    └── AWS • Cloud Architecture • Scalable Infrastructure
+
+⚙️  DEVOPS
+    └── Docker • Jenkins • CI/CD • GitHub Actions
+
+🐍  DEVELOPMENT
+    └── Python • Django • Node.js • Backend Engineering
+
+🗄️  DATA
+    └── MySQL • PostgreSQL • MongoDB • Pandas
+
+🌱  CURRENTLY EXPLORING
+    └── Automation • Cloud-Native Systems • Open Source
+```
+
+> **Engineering mindset:** Build systems that are easier to deploy, easier to maintain, and easier to improve.
+
+---
+
+## `> cat credentials.log`
+
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ AWS
+
+🏅 **AWS Cloud Practitioner Essentials**
+
+🎮 **AWS Cloud Quest**
+Cloud Practitioner Training Badge
+
+📊 **Data Analytics Essentials**
+
+</td>
+
+<td width="50%">
+
+### 🌐 Cloud & Networking
+
+☁️ **Google Cloud Engineering Certificate**
+
+🌐 **Cisco Learning Credentials**
+
+🎓 Continuing cloud & DevOps learning
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> github --stats SaniyaParasara`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaniyaParasara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaParasara&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -147,147 +150,114 @@ mission: "Build. Automate. Deploy. Improve."
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaParasara&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SaniyaParasara&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🏆 `ACHIEVEMENTS UNLOCKED`
+## `> git log --visual`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaniyaParasara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaniyaParasara&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
 ---
 
-# 📈 `ACTIVITY MAP`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaniyaParasara&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-# 🐍 `CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SaniyaParasara/SaniyaParasara/output/github-contribution-grid-snake-dark.svg" alt="Saniya's contribution snake" />
-
-</div>
-
----
-
-# 🎮 `CURRENT QUEST`
+## `> python saniya.py`
 
 ```python
-class Saniya:
+class SaniyaParasara:
     def __init__(self):
-        self.role = "DevOps & Cloud Enthusiast"
-        self.language = "Python 🐍"
-        self.cloud = "AWS ☁️"
-        self.current_quest = "MCA 🎓"
-        self.status = "Always Learning 🚀"
+        self.focus = ["DevOps", "Cloud", "Python"]
+        self.cloud = "AWS"
+        self.current_goal = "MCA"
+        self.mindset = "Continuous Learning"
 
-    def goals(self):
+    def engineering_cycle(self):
         return [
-            "Master DevOps ⚙️",
-            "Build Cloud Infrastructure ☁️",
-            "Automate CI/CD 🚀",
-            "Build with Python 🐍",
-            "Contribute to Open Source 💻",
-            "Keep Learning 📚"
+            "learn",
+            "build",
+            "automate",
+            "deploy",
+            "observe",
+            "improve"
         ]
 
 
-me = Saniya()
+saniya = SaniyaParasara()
 
-while True:
-    learn()
-    build()
-    automate()
-    deploy()
-    improve()
+for step in saniya.engineering_cycle():
+    print(f"→ {step.upper()}")
+```
+
+```console
+$ python saniya.py
+
+→ LEARN
+→ BUILD
+→ AUTOMATE
+→ DEPLOY
+→ OBSERVE
+→ IMPROVE
+
+Process finished with exit code 0 ✓
 ```
 
 ---
 
-# 🕹️ `PLAYER SKILLS`
+## `> systemctl status saniya.service`
 
 ```text
-Python              ███████████████░░░░░
-Cloud Computing     ███████████████░░░░░
-AWS                 █████████████░░░░░░░
-DevOps              ████████████░░░░░░░░
-Docker              ████████████░░░░░░░░
-CI/CD               ███████████░░░░░░░░░
-Django              ███████████░░░░░░░░░
-Linux               ███████████░░░░░░░░░
+● saniya.service - Cloud & DevOps Engineering Journey
+
+   Loaded: loaded
+   Active: active (learning)
+   Focus:  DevOps • AWS • Python • Cloud
+   Goal:   Build secure, scalable & reliable systems
+
+   Tasks:
+     ✓ Learn continuously
+     ✓ Build consistently
+     ✓ Automate repetitive work
+     ✓ Explore cloud infrastructure
+     ✓ Improve through experimentation
+
+   Status: "Turning curiosity into engineering experience."
 ```
 
 ---
 
-# 💭 `DEVELOPER PHILOSOPHY`
-
-```text
-> CODE
-> BUILD
-> AUTOMATE
-> DEPLOY
-> LEARN
-> REPEAT_
-```
-
-> ☁️ Turning curiosity into code and code into scalable cloud solutions.
-
----
-
-# 🌐 `CONNECT WITH ME`
+## `> connect --with saniya`
 
 <div align="center">
 
+### Let's build, automate & learn together. ☁️
+
 <a href="https://github.com/SaniyaParasara">
-  <img src="https://img.shields.io/badge/GitHub-SaniyaParasara-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saniya-parasara-b207a0296/">
-  <img src="https://img.shields.io/badge/LinkedIn-Saniya_Parasara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-# 👾 `GAME STATUS`
+<br><br>
 
 ```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║        👾 SANIYA PARASARA                ║
-║                                          ║
-║   LEARNING.............. [ ACTIVE ]      ║
-║   BUILDING.............. [ ACTIVE ]      ║
-║   DEVOPS JOURNEY........ [ IN PROGRESS ] ║
-║   CLOUD SKILLS.......... [ UPGRADING ]   ║
-║   PYTHON................ [ RUNNING ]     ║
-║   OPEN SOURCE........... [ LOADING... ]  ║
-║                                          ║
-╚══════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ☁️  CLOUD       ⚙️  DEVOPS       🐍  PYTHON              │
+│                                                              │
+│          automate → deploy → observe → improve               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### ☁️ Automate • Build • Deploy • Repeat 🚀
+### `while (curious) { learn(); build(); improve(); }`
 
-**Thanks for visiting my digital world! 👾**
-
-`< Keep Learning />` • `< Keep Building />` • `< Keep Shipping />`
-
-⭐ **If you find my projects interesting, consider starring a repository!** ⭐
+<sub>☁️ Building my journey one commit at a time.</sub>
 
 </div>
