@@ -15,37 +15,32 @@
 
 </div>
 
-<!-- 3. MAIN DASHBOARD: ABOUT & EXPERTISE (2-COLUMN GRID) -->
+<!-- 3. MAIN DASHBOARD: ABOUT & EXPERTISE (NO BLANK LINES HERE) -->
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    
-    <!-- LEFT COLUMN: SYSTEM TERMINAL -->
-    <td width="55%" align="left" style="border: none; padding-right: 20px;">
-      <h3 align="left"><code>&gt; whoami</code></h3>
-      <p>I am a versatile <b>Software Engineer</b> and currently pursuing my <b>MCA</b> (with a background in BCA Hons.). I specialize in building robust backend systems, writing clean Python code, and bridging the gap between development and scalable infrastructure.</p>
-      
-      <h3 align="left"><code>&gt; cat focus.txt</code></h3>
-      <ul>
-        <li>💻 <b>Engineering:</b> Developing efficient APIs and full-stack solutions.</li>
-        <li>⚙️ <b>Architecture:</b> Designing cloud-native and scalable systems.</li>
-        <li>🐍 <b>Data & Automation:</b> Scripting workflows and handling data pipelines.</li>
-        <li>🚀 <b>Delivery:</b> Ensuring smooth deployments (CI/CD, Docker).</li>
-      </ul>
-    </td>
-
-    <!-- RIGHT COLUMN: TECH RADAR -->
-    <td width="45%" align="center" style="border: none;">
-      <h3>⚡ Tech Radar</h3>
-      <p align="center">
-        <b>Core Engineering</b><br>
-        <img src="https://skillicons.dev/icons?i=python,django,nodejs,js&perline=4" /><br><br>
-        <b>Systems & Cloud</b><br>
-        <img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,githubactions&perline=5" /><br><br>
-        <b>Data & Architecture</b><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git&perline=4" />
-      </p>
-    </td>
-  </tr>
+<tr style="border: none;">
+<td width="55%" align="left" style="border: none; padding-right: 20px;">
+<h3 align="left"><code>&gt; whoami</code></h3>
+<p>I am a versatile <b>Software Engineer</b> and currently pursuing my <b>MCA</b> (with a background in BCA Hons.). I specialize in building robust backend systems, writing clean Python code, and bridging the gap between development and scalable infrastructure.</p>
+<h3 align="left"><code>&gt; cat focus.txt</code></h3>
+<ul>
+<li>💻 <b>Engineering:</b> Developing efficient APIs and full-stack solutions.</li>
+<li>⚙️ <b>Architecture:</b> Designing cloud-native and scalable systems.</li>
+<li>🐍 <b>Data & Automation:</b> Scripting workflows and handling data pipelines.</li>
+<li>🚀 <b>Delivery:</b> Ensuring smooth deployments (CI/CD, Docker).</li>
+</ul>
+</td>
+<td width="45%" align="center" style="border: none;">
+<h3>⚡ Tech Radar</h3>
+<p align="center">
+<b>Core Engineering</b><br>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,js&perline=4" /><br><br>
+<b>Systems & Cloud</b><br>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,githubactions&perline=5" /><br><br>
+<b>Data & Architecture</b><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git&perline=4" />
+</p>
+</td>
+</tr>
 </table>
 
 <br>
@@ -54,20 +49,18 @@
 </div>
 <br>
 
-<!-- 4. GITHUB ANALYTICS (TRANSPARENT & SLEEK) -->
+<!-- 4. GITHUB ANALYTICS (NO BLANK LINES HERE EITHER) -->
 <h2 align="center">📊 System Telemetry</h2>
 
 <table align="center" width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
-      <!-- Stats Card with completely transparent background to blend in -->
-      <img src="https://github-readme-stats.vercel.app/api?username=SaniyaParasara&show_icons=true&theme=transparent&hide_border=true&title_color=00C9FF&text_color=a3a3a3&icon_color=8B5CF6&ring_color=00C9FF" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <!-- Top Langs Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaParasara&layout=compact&theme=transparent&hide_border=true&title_color=00C9FF&text_color=a3a3a3" />
-    </td>
-  </tr>
+<tr style="border: none;">
+<td width="50%" align="center" style="border: none;">
+<img src="https://github-readme-stats.vercel.app/api?username=SaniyaParasara&show_icons=true&theme=transparent&hide_border=true&title_color=00C9FF&text_color=a3a3a3&icon_color=8B5CF6&ring_color=00C9FF" />
+</td>
+<td width="50%" align="center" style="border: none;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaParasara&layout=compact&theme=transparent&hide_border=true&title_color=00C9FF&text_color=a3a3a3" />
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -100,7 +93,6 @@
   
   <br>
   
-  <!-- Transparent trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=SaniyaParasara&theme=transparent&no-frame=true&no-bg=true&margin-w=15&column=6" />
 </div>
 
