@@ -15,7 +15,7 @@
 
 </div>
 
-<!-- 3. MAIN DASHBOARD: ABOUT & EXPERTISE (NO BLANK LINES HERE) -->
+<!-- 3. MAIN DASHBOARD: ABOUT & EXPERTISE -->
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td width="55%" align="left" style="border: none; padding-right: 20px;">
@@ -49,19 +49,13 @@
 </div>
 <br>
 
-<!-- 4. GITHUB ANALYTICS (NO BLANK LINES HERE EITHER) -->
+<!-- 4. GITHUB ANALYTICS (FIXED: NO TABLES USED HERE) -->
 <h2 align="center">📊 System Telemetry</h2>
 
-<table align="center" width="100%" style="border: none;">
-<tr style="border: none;">
-<td width="50%" align="center" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=SaniyaParasara&show_icons=true&theme=transparent&hide_border=true&title_color=00C9FF&text_color=a3a3a3&icon_color=8B5CF6&ring_color=00C9FF" />
-</td>
-<td width="50%" align="center" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaParasara&layout=compact&theme=transparent&hide_border=true&title_color=00C9FF&text_color=a3a3a3" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaniyaParasara&show_icons=true&theme=transparent&hide_border=true&title_color=00C9FF&text_color=a3a3a3&icon_color=8B5CF6&ring_color=00C9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaParasara&layout=compact&theme=transparent&hide_border=true&title_color=00C9FF&text_color=a3a3a3" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SaniyaParasara&theme=transparent&hide_border=true&title_color=00C9FF&text_color=a3a3a3&icon_color=8B5CF6&ring_color=00C9FF" />
